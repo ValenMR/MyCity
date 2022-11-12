@@ -43,3 +43,8 @@ svg {
     display: inline-block;
     border-radius: 10px;
 }
+
+.fotos__comunas {
+    width: 300px;
+    height: 300px;
+}
