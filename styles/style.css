@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 { 
+    font-size: 48px;
+}
+
+.hover_sector g:hover {
+    filter: drop-shadow(-1px 1px 4px rgba(0,0,0,0.75));
+}
+
+.info__sector p {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
